@@ -1,0 +1,17 @@
+{  
+    "web":{  
+       "client_id":"1043178444240-fit0566r45gcbvog4tei1pour1ba436t.apps.googleusercontent.com",
+       "project_id":"fit-aleph-199614",
+       "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+       "token_uri":"https://accounts.google.com/o/oauth2/token",
+       "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+       "client_secret":"rWCivZVYVhFlnPrW7_pvi224",
+       "redirect_uris":[  
+          "http://localhost:3000"
+       ],
+       "javascript_origins":[  
+          "http://localhost:3000",
+          "http://localhost:8000"
+       ]
+    }
+ }
